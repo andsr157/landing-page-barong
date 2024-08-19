@@ -1,0 +1,38 @@
+[
+    {
+      "name": "Jelajahi Menu",
+      "items": [
+        {
+          "name": "Beranda",
+          "url":"/"
+        },
+        {
+          "name": "Tentang Kami",
+          "url": "/about"
+        },
+        {
+          "name": "Fitur",
+          "url": "/feature"
+        }
+      ]
+    },
+    
+    {
+      "name": "Hubungi Kami",
+      "items": [
+        {
+          "name": "Jl. Letjen Sutoyo No.43, Cengklik, Nusukan, Kec. Banjarsari, Kota Surakarta, Jawa Tengah 57135",
+          "url": "/"
+        },
+        {
+          "name": "+62 85865412191",
+          "url": "/"
+        },
+        {
+          "name": "barong.surakarta@gmail.com",
+          "url": "/"
+        }
+      ]
+    }
+  ]
+  

@@ -1,0 +1,26 @@
+[
+    {
+        "image":"/home/images/HowItWork1.png",
+        "title":"Download Barong",
+        "desc":"Kunjungi wesbite barong lalu Install aplikasi barong, dan registrasi  dengan mudah. Jual barang rongsok Anda !",
+        "reverse":false
+    },
+    {
+        "image":"/home/images/HowItWork2.png",
+        "title":"Buat Transaksi",
+        "desc":"Anda dapat membuat transaksi penjualan barang rosok dengan melengkapi form transaksi yang tersedia",
+        "reverse":true
+    },
+    {
+        "image":"/home/images/HowItWork3.png",
+        "title":"Diambil Pengepul ",
+        "desc":"Pengepul yang berada jangkauan wilayah, akan mengambil rongsok Anda",
+        "reverse":false
+    },
+    {
+        "image":"/home/images/HowItWork4.png",
+        "title":"Dapatkan Uang",
+        "desc":"Transaksi Berhasil dan dapatakan keuntungan dari penjulan barang rongsok anda",
+        "reverse":true
+    }
+]

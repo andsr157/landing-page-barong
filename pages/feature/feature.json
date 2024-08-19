@@ -1,0 +1,140 @@
+[
+  {
+    "title": "Autentifikasi",
+    "desc": "Fitur autentikasi bertujuan untuk memastikan keamanan akses pengguna ke dalam aplikasi. Ini termasuk proses pendaftaran akun baru, login, dan pemulihan kata sandi.",
+    "items": [
+      {
+        "icon": "/icon/icon-register.png",
+        "title": "Register",
+        "desc": "membuat akun baru dengan mengisi formulir pendaftaran",
+        "to": "/feature/panduan-pendaftaran"
+      },
+      {
+        "icon": "/icon/icon-login.png",
+        "title": "Login",
+        "desc": "Masuk kedalam aplikasi akun yang dibuat",
+        "to": "/feature/panduan-Login"
+      },
+      {
+        "icon": "/icon/icon-lupa-kata-sandi.png",
+        "title": "Lupa Kata Sandi",
+        "desc": "memulihkannya melalui email verifikasi untuk mengatur ulang kata sandi",
+        "to": "/feature/panduan-lupa-kata-sandi"
+      }
+    ]
+  },
+  {
+    "title": "Transaksi",
+    "desc": "Fitur ini memungkinkan pengguna untuk melakukan berbagai jenis transaksi dalam aplikasi, termasuk penjualan, pembatalan, review dan pengajuan transaksi kembali",
+    "items": [
+      {
+        "icon": "/icon/icon-jual-rongsok.png",
+        "title": "Jual Rongsok",
+        "desc": "membuat transaksi penjulan rongsok",
+        "to": "/feature/panduan-jual-rongsok"
+      },
+      {
+        "icon": "/icon/icon-batal-transaksi.png",
+        "title": "Membatalkan Transaksi",
+        "desc": "membatalkan transaksi yang telah dibuat",
+        "to": "/feature/panduan-batal-transaksi"
+      },
+      {
+        "icon": "/icon/icon-review-pengepul.png",
+        "title": "Review Pengepul",
+        "desc": "membuat rating dan ulasana kepada pengepul",
+        "to": "/feature/panduan-penilaian-pengepul"
+      },
+      {
+        "icon": "/icon/icon-chat-pengepul.png",
+        "title": "Chat Pengepul",
+        "desc": "mengirim pesan kepada pengepul",
+        "to": "/feature/panduan-pesan-pengepul"
+      },
+      {
+        "icon": "/icon/icon-buat-transaksi-lagi.png",
+        "title": "Buat Transaksi Lagi",
+        "desc": "Membuat transaksi baru dari data transaksi yang dibatalkan",
+        "to": "/feature/panduan-buat-transaksi-lagi"
+      }
+    ]
+  },
+  {
+    "title": "Izin Akses",
+    "desc": "Aktifkan izin akses notifikasi dan lokasi yang akan digunakan dalam aplikasi agar berjalan secara optimal ",
+    "items": [
+      {
+        "icon": "/icon/icon-akses-notifikasi.png",
+        "title": "Akses Notifikasi",
+        "desc": "Mengelola Akses Notifikasi",
+        "to": "/feature/panduan-akses-notifikasi"
+      },
+      {
+        "icon": "/icon/icon-akses-lokasi.png",
+        "title": "Akses Lokasi",
+        "desc": "Mengelola Akses Lokasi",
+        "to": "/feature/panduan-akses-lokasi"
+      },
+      {
+        "icon": "/icon/icon-manual-aktifkan-notifikasi.png",
+        "title": "Manual Aktifkan Notifikasi",
+        "desc": "Mengaktikan manual notifikasi pada desktop dan mobile",
+        "to": "/feature/panduan-manual-aktifkan-notifikasi"
+      },
+      {
+        "icon": "/icon/icon-manual-aktifkan-lokasi.png",
+        "title": "Manual Aktifkan Lokasi",
+        "desc": "Mengaktikan manual lokasi pada desktop dan mobile",
+        "to": "/feature/panduan-manual-aktifkan-lokasi"
+      }
+    ]
+  },
+  {
+    "title": "Kelola Alamat",
+    "desc": "Kelola alamat seperti menambah alamat, ubah alamat, atur alamat utama, dan hapus alamat",
+    "items": [
+      {
+        "icon": "/icon/icon-buat-alamat.png",
+        "title": "Buat Alamat",
+        "desc": "membuat alamat baru dengan mengisi formulir tambah alamat",
+        "to": "/feature/panduan-buat-alamat"
+      },
+      {
+        "icon": "/icon/icon-ubah-alamat.png",
+        "title": "Ubah Alamat",
+        "desc": "Mengubah semua atau salah satu data alamat saja pada formulir ubah alamat",
+        "to": "/feature/panduan-ubah-alamat"
+      },
+      {
+        "icon": "/icon/icon-atur-alamat-utama.png",
+        "title": "Atur Alamat Utama",
+        "desc": "Mengatur alamat menjadi alamat utama sesuai keinginan",
+        "to": "/feature/panduan-atur-alamat-utama"
+      },
+      {
+        "icon": "/icon/icon-hapus-alamat.png",
+        "title": "Hapus Alamat",
+        "desc": "Menghapus alamat yang terdapat pada daftar alamat",
+        "to": "/feature/panduan-hapus-alamat"
+      }
+    ]
+  },
+  {
+    "title": "Kelola Akun",
+    "desc": "Kelola akun seperti ubah profil dan ubah kata sandi ",
+    "items": [
+      {
+        "icon": "/icon/icon-edit-profil.png",
+        "title": "Edit Profil",
+        "desc": "anda dapat mengedit atau mengubah data profil pengguna",
+        "to": "/feature/panduan-ubah-profil"
+      },
+      {
+        "icon": "/icon/icon-ubah-kata-sandi.png",
+        "title": "Ubah Kata Sandi",
+        "desc": "anda dapat mengedit atau mengubah kata sandi akun",
+        "to": "/feature/panduan-ubah-kata-sandi"
+      }
+    ]
+  }
+]
